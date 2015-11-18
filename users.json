@@ -1,0 +1,44 @@
+[
+    {
+        "mail": "dd@d.com",
+        "pass": "123123Dd",
+        "sex": "male",
+        "subscribe": "no"
+    },
+    {
+        "mail": "dd@d.com",
+        "pass": "123123Dd",
+        "sex": "male",
+        "subscribe": "no"
+    },
+    {
+        "mail": "dd@d.com",
+        "pass": "123123Dd",
+        "sex": "male",
+        "subscribe": "no"
+    },
+    {
+        "mail": "dd@d.com",
+        "pass": "123123Dd",
+        "sex": "male",
+        "subscribe": "no"
+    },
+    {
+        "mail": "dd@dc.com",
+        "pass": "123Dddddds12",
+        "sex": "female",
+        "subscribe": "yes"
+    },
+    {
+        "mail": "denr@asd.com",
+        "pass": "123DdddaasS",
+        "sex": "male",
+        "subscribe": "yes"
+    },
+    {
+        "mail": "denrik7@gmail.com",
+        "pass": "123dddDD",
+        "sex": "female",
+        "subscribe": "yes"
+    }
+]
